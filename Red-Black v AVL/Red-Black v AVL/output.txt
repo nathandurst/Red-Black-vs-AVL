@@ -1,0 +1,7 @@
+Nathan Durst
+
+
+
+With 10000 nodes inserted
+and 0 nodes removed
+There are a total of 826563 comparisons.
